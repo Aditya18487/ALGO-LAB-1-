@@ -1,2 +1,2 @@
-# ALGO-LAB-1-
-I have done basics of google colab for Algorithms design 
+# ALGORITHM AND PROBLEM SOLVING 
+Mastering google colab for Algorithm and problem solving. Done basic to advance Algorithm design and solved problem effeciently.  
